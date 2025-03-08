@@ -19,6 +19,14 @@ fake_database = {
       "quality": "brand new", 
       "seller": "Shayan", 
       "posted_date": date(2025, 2, 14)
+  },
+  3: {
+    "name": "Honda Civic",
+    "price": "5500",
+    "year": "2012",
+    "quality": "good",
+    "seller": "Rob",
+    "posted_date": date(2024, 11, 9)
   }
 }
 
